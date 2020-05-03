@@ -1,6 +1,8 @@
 # Dodge the Creeps
 
-Play here: https://rwdavid.itch.io/dodge-the-creeps
+Play the game [here](https://rwdavid.itch.io/dodge-the-creeps).
+
+![Preview of game](/preview.png)
 
 Click to move around and avoid the creeps.
 
